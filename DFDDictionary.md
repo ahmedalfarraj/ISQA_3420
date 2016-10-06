@@ -6,4 +6,4 @@ Determine Violations in Corporate Policies:
 Scan For Licenses:
 Retrieve OSS Software Components: 
 Modify Policy Documents:
-NIST vulnerability component: ame
+NIST vulnerability component: am
