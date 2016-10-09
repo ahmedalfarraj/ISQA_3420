@@ -41,14 +41,14 @@ ________________________________________________________________________________
 
 ___________Retrieve OSS Software Components TO Scan For Licenses And The Developer_______________
 
-Software Package: Codes used to build up the Software.
+Software Package: Codes used to build up a Software.
 
-Software Package and Vulnerability Response:
+Software Package and Vulnerability Response: Response for the Software Package and Vulnerability Information.
 _________________________________________________________________________________________________
 
 __Retrieve OSS Software Components TO Software Package License and Vulnerability information DB__
 
-Software Package and License And Vulnerability Response:
+Software Package and License And Vulnerability Response: Response for the Software Package and Vulnerability Information.
 _________________________________________________________________________________________________
 
 _____The Developer TO Retrieve List of Software Project License and Vulnerability Information____
@@ -60,23 +60,17 @@ ________________________________________________________________________________
 
 ______________The Developer TO Retrieve Policy for Corresponding Software Project________________
 
-Software Project and Vulnerability Request:
+Software Project and Vulnerability Request: The Developer Request Software Project and Vulnerability.
 
-Software Project and Vulnerability Response:
+Software Project and Vulnerability Response: Corresponding Response to the Developer.
 _________________________________________________________________________________________________
 
-Retrieve List of Software Project License and Vulnerability Information TO Software Package License and Vulnerability information DB
-
-Package, License and Vulnerability Request:
-
-Project License and Vulnerability Response:
-_________________________________________________________________________________________________
 
 _____The Manager TO Retrieve List of Software Project License and Vulnerability Information______
 
-Project License and Vulnerability Request:
+Project, License and Vulnerability Request: The manager Request Project License and Vulnerability Information.
 
-Project, License and Vulnerability Response:
+Project, License and Vulnerability Response: The manager Get the Responsed.
 _________________________________________________________________________________________________
 
 __________________________The Manager TO Policy Documents Modified_______________________________
@@ -86,18 +80,11 @@ Updated Policy Document: The manager Submit the Document after Checking.
 Resent Policy Document: The Document Are Submitted to the Manager for Checking.
 _________________________________________________________________________________________________
 
-________Policy Documents Modified TO Software Project  License and Vulnerability Policy__________
+Retrieve Policy for Corresponding Software Project TO Software Project License and Vulnerability Policy 
 
-Updated Policy Document:
+Resent Software Policy Request: Request Policy information for Software.
 
-Updated Policy Responded:
-_________________________________________________________________________________________________
-
-Retrieve Policy for Corresponding Software Project TO Software Project  License and Vulnerability Policy 
-
-Resent Software Policy Document:
-
-Software Policy Request:
+Software Policy Request: Response for the Software Document.
 
 ___________________________________________End of Data Flows______________________________________
 
