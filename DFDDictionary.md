@@ -26,10 +26,18 @@ Software Package Name: A Name for the Software Package.
 
 OSS Vulnerability Issues: A Process to determine Open Source Issues.
 
-Project, License and Vulnerability Response: Response to the Manger about Package, License And Vulnerability Information.
+Project, License and Vulnerability Response: Response to the Manger about Package, License and Vulnerability Information.
 
-Project License and Vulnerability Request: The Manger Request about Package, License And Vulnerability Information.
+Project License and Vulnerability Request: The Manger Request about Package, License and Vulnerability Information.
 
-Resent Policy Document: The Document are Submitted to the Manager for Checking.
+Resent Policy Document: The Document Are Submitted to the Manager for Checking.
 
 Updated Policy Document: The manager Submit the Document after Checking.
+
+Software project Policy Response: The Manager 
+Software Project Policy Request:
+Updated Policy Responded:
+Resent Software Policy Document:
+Software Policy Request:
+Software Package and Vulnerability Response:
+Software Project and Vulnerability Request:
