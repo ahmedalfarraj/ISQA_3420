@@ -5,6 +5,7 @@ The Developer: Person Who is in Charge of the Software Package and License.
 
 The Manager: The Software Package Advisor.
 ________________________________________End Of Entities__________________________________________
+
 _________________________________________DataStores______________________________________________
 
 NIST Vulnerability DB: The Database that have all the known Vulnerability in the software package.
@@ -13,6 +14,7 @@ Software Package License and Vulnerability information DB: Database that keeps S
 
 Software Package License and Vulnerability Policy: Database that have Policy Document
 _____________________________________End of DataStores__________________________________________
+
 _________________________________________Processes______________________________________________
 
 Retrieve OSS Software Components: Process that will Chick open source software in the document.
@@ -32,12 +34,14 @@ __________________________________________Data Flows____________________________
 __________________NIST Vulnerability BD TO Retrieve OSS Software Components______________________
 
 OSS Vulnerability Issues: A Process to determine Open Source Issues.
+
 Software Package Name: A Name for the Software Package.
 _________________________________________________________________________________________________
 
 ___________Retrieve OSS Software Components TO Scan For Licenses And The Developer_______________
 
 Software Package: Codes used to build up the Software.
+
 Software Package and Vulnerability Response:
 _________________________________________________________________________________________________
 
