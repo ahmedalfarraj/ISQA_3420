@@ -30,3 +30,6 @@ Project, License and Vulnerability Response: Response to the Manger about Packag
 
 Project License and Vulnerability Request: The Manger Request about Package, License And Vulnerability Information.
 
+Resent Policy Document: The Document are Submitted to the Manager for Checking.
+
+Updated Policy Document: The manager Submit the Document after Checking.
