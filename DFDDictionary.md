@@ -4,6 +4,7 @@ ___________________________________________Entites______________________________
 The Developer: Person Who is in Charge of the Software Package and License.
 
 The Manager: The Software Package Advisor.
+
 ________________________________________End Of Entities__________________________________________
 
 _________________________________________DataStores______________________________________________
