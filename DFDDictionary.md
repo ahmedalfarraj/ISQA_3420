@@ -1,4 +1,6 @@
-The Developer: Person Who is in Charge of the Software Package and License Scan.
+_________________________________________DFDDictionary___________________________________________
+
+The Developer: Person Who is in Charge of the Software Package and License.
 
 The Manager: The Software Package Advisor.
 
@@ -6,7 +8,7 @@ NIST Vulnerability DB: The Database that have all the known Vulnerability in the
 
 Retrieve OSS Software Components: Process that will Chick open source software in the document.
 
-Scan for License: Scan for any licenses that can be found in the program.
+Scan for License: A Process of getting information about License for files/Packages
 
 Software Package License and Vulnerability information DB: Database that keeps Software Package License and Vulnerability information DB
 
@@ -18,4 +20,13 @@ Software Package License and Vulnerability Policy: Database that have Policy Doc
 
 Policy Documents Modified: A Process for checking on Policy Document.
 
+Software Package: Codes used to build up the Software.
+
+Software Package Name: A Name for the Software Package.
+
+OSS Vulnerability Issues: A Process to determine Open Source Issues.
+
+Project, License and Vulnerability Response: Response to the Manger about Package, License And Vulnerability Information.
+
+Project License and Vulnerability Request: The Manger Request about Package, License And Vulnerability Information.
 
