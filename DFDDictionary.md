@@ -1,7 +1,7 @@
 The Developer: Person Who is in Charge of the Software Package and License Scan.
 
 The Manager: The Software Package Advisor.
-
+______________________________________________________________________________________________________________________
 NIST Vulnerability DB: The Database that have all the known Vulnerability in the software package.
 
 Retrieve OSS Software Components: Process that will Chick open source software in the document.
