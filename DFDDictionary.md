@@ -6,6 +6,8 @@ NIST Vulnerability DB: The Database that have all the known Vulnerability in the
 
 Retrieve OSS Software Components: Process that will Chick open source software in the document.
 
+OSS Licenses: An Open Source Software Licenses.
+
 Scan for License: Scan for any licenses that can be found in the program.
 
 Software Package License and Vulnerability information DB: Database that keeps Software Package License and Vulnerability information DB
