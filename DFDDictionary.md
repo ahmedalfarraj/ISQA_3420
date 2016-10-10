@@ -73,11 +73,11 @@ Project, License and Vulnerability Request: The manager Request Project License 
 Project, License and Vulnerability Response: The manager Get the Responsed.
 _________________________________________________________________________________________________
 
-__________________________The Manager TO Policy Documents Modified_______________________________
+________________________The Manager TO Create/Modify Policy Documents____________________________
 
-Updated Policy Document: The manager Submit the Document after Checking.
+Response for Create/Modify Policy Document update: The manager Submit the Document after Checking.
 
-Resent Policy Document: The Document Are Submitted to the Manager for Checking.
+Create/Modify Policy Document update: The Document Are Submitted to the Manager for Checking.
 _________________________________________________________________________________________________
 
 Retrieve Policy for Corresponding Software Project TO Software Project License and Vulnerability Policy 
