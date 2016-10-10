@@ -3,9 +3,9 @@ Title: Scan For Licenses.
 
 Primary Actor: The Developer.
 
-Goal in Context:To Scan the file. 
+Goal in Context: To Scan the Software package by the Developer request, then get the result back.
 
-Stakeholders and Interests: The Manager.
+Stakeholders and Interests: The Manager And The Manager.
 
 Preconditions: The File need to be Scaned and Completed with no errors.
 
@@ -13,7 +13,7 @@ Main Success Senario: The License is updated and Send correctly.
 
 Failed End Conditions: The License is not updated and Send correctly.
 
-Trigger: A new file is submitted to the control system.
+Trigger: The Developer has the Software Package, File Scanned and ready for submission
 ______________________
 
 Title: Vulnerability Request.
